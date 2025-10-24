@@ -2,11 +2,11 @@
 title: "Optimization of Central Source Contact Length to Mitigate Temperature Variation and Thermal Crosstalk in Multi-Finger AlGaN/GaN HEMTs: Reliability-based Simulation"
 collection: publications
 category: manuscripts
-date: 2025-05-27
-venue: 'IEEE Transactions on Electron Devices'
+date: 2025-10-23
+venue: 'Materials Science in Semiconductor Processing'
 paperurl: 'https://chaeyun97.github.io/files/TED-Submitted.pdf'
-citation: '<u>C. Y. Lim</u>, J. H. Lee, T. S. Kim, Y. H. Won, J. H. Lee, B. G. Min, D. M. Kang, and H. S. Kim, “Optimization of Central Source Contact Length to Mitigate Temperature Variation and Thermal Crosstalk in Multi-Finger AlGaN/GaN HEMTs: Reliability-based Simulation”, <em>IEEE Transactions on Electron Devices</em>, submitted.'
-status: submitted
+citation: '<u>C. Y. Lim</u>, J. H. Lee, T. S. Kim, Y. H. Won, J. H. Lee, B. G. Min, D. M. Kang, and H. S. Kim, “Optimization of central source contact length to mitigate temperature variation and thermal crosstalk in multi-Finger AlGaN/GaN HEMTs: Reliability-based simulation”, <em>Materials Science in Semiconductor Processing</em>, published.'
+status: published
 ---
 
 <img width="1160" height="833" alt="{47EE1987-3FCF-4C1B-BEC0-4B9D4D6FC3D9}" src="https://github.com/user-attachments/assets/1401a6b0-bf0c-4305-9d58-502f9472d6f3" />
