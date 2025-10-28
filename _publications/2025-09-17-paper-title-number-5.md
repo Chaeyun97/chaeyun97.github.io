@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-09-17-paper-title-number-4
 date: 2025-09-17
 venue: 'ICSCRM 2025'
-paperurl: 'https://chaeyun97.github.io/files/ICSCRM2025_Abstract.pdf'
+paperurl: 'https://chaeyun97.github.io/files/ICSCRM2025_Poster_A3(김태성,이재훈,임채윤,원영현).pdf' 
 citation: 'T. S. Kim, Y. H. Won, J. H. Lee, <u>C. Y. Lim</u>, and H. S. Kim, “Optimization of Source-connected Field Plate in AlGaN/GaN HEMTs towards high-power and high-frequency Operations: A Simulation Study”, Poster presented at ICSCRM 2025'
 status: presented
 ---
