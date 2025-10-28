@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 date: 2025-10-23
 venue: 'Materials Science in Semiconductor Processing'
-paperurl: 'https://chaeyun97.github.io/files/TED-Submitted.pdf'
+paperurl: 'https://chaeyun97.github.io/files/MSSP.pdf'
 citation: '<u>C. Y. Lim</u>, J. H. Lee, T. S. Kim, Y. H. Won, J. H. Lee, B. G. Min, D. M. Kang, and H. S. Kim, “Optimization of central source contact length to mitigate temperature variation and thermal crosstalk in multi-Finger AlGaN/GaN HEMTs: Reliability-based simulation”, <em>Materials Science in Semiconductor Processing</em>, vol. 202, 110184, DOI: 10.1016/j.mssp.2025.110184'
 status: published
 ---
